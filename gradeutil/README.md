@@ -42,7 +42,7 @@ and adjusting the history row and inserting it into the active grades
 table.
 
 TODO: I did not deal with the case where there was a grade in the active
-grades table but it was too low - te code just dies if it sees this.
+grades table but it was too low - the code just dies if it sees this.
 It would be pretty easy to craft an UPDATE statement (actually much easier
 than the INSERT) to change the data - but since I was not facing that
 problem - I did not write code I did not test.
